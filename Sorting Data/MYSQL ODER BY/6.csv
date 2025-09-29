@@ -1,0 +1,51 @@
+orderNumber,status
+10422,"In Process"
+10425,"In Process"
+10420,"In Process"
+10424,"In Process"
+10423,"In Process"
+10421,"In Process"
+10401,"On Hold"
+10414,"On Hold"
+10407,"On Hold"
+10334,"On Hold"
+10248,Cancelled
+10260,Cancelled
+10179,Cancelled
+10167,Cancelled
+10253,Cancelled
+10262,Cancelled
+10367,Resolved
+10327,Resolved
+10386,Resolved
+10164,Resolved
+10417,Disputed
+10406,Disputed
+10415,Disputed
+10150,Shipped
+10149,Shipped
+10144,Shipped
+10146,Shipped
+10145,Shipped
+10147,Shipped
+10141,Shipped
+10142,Shipped
+10143,Shipped
+10148,Shipped
+10125,Shipped
+10105,Shipped
+10110,Shipped
+10111,Shipped
+10112,Shipped
+10113,Shipped
+10114,Shipped
+10121,Shipped
+10122,Shipped
+10123,Shipped
+10124,Shipped
+10106,Shipped
+10126,Shipped
+10127,Shipped
+10128,Shipped
+10129,Shipped
+10130,Shipped
